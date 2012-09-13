@@ -1,3 +1,6 @@
+### Clean, presentation template.
+Fprked this repo and made a default clean template.
+
 # reveal.js
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
